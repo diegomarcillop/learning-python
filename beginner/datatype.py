@@ -1,5 +1,5 @@
 #string;
-print("Hello World")
+print("Morty")
 
 #number
 print(30)
@@ -19,8 +19,10 @@ print(band)
 #tuples inmutable
 (10, 20, 30, 55)
 
-#dictirionies
-# { key: value}
-{"name":"Ryan",
-"firsname":"Ray",
-"secondname": "Fazt"}
+#dictirionies { key: value}
+myDict = {
+  "name":"Ryan",
+  "firsname":"Ray",
+  "secondname": "Fazt"
+}
+print(myDict)

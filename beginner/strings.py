@@ -1,18 +1,20 @@
- #myStr = "hola mundo"
-# #print(dir(myStr))
-# print(myStr.upper())
-# print(myStr.swapcase())
-# print(myStr.capitalize())
-# print(myStr.replace("hola", "hello"))
-# print(myStr.count("o"))
+myStr = "Hello, word!"
 
-# print(myStr.startswith("hola"))
-# print(myStr.endswith("mundo"))
-# print(myStr.split(" "))
-# print(myStr.find("u"))
-# print(len(myStr))
-# print(myStr.islower())
-# print(myStr[2])
+"""
+print(dir(myStr))
+print(myStr.upper())
+pint(myStr.swapcase())
+print(myStr.capitalize())
+print(myStr.replace("word!", "Friend!"))
+print(myStr.count("o"))
+print(myStr.startswith("Hello"))
+print(myStr.endswith("word!"))
+print(myStr.split(" "))
+print(myStr.find("o"))
+print(len(myStr))
+print(myStr.islower())
+
+"""
 
 myname = "Diego"
 print(f"my name is {myname}" )
